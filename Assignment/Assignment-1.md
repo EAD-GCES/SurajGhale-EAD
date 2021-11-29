@@ -8,7 +8,7 @@ Government Enterprise consists of a coordinated set of activity areas involving 
 
 A government-wide enterprise architecture will allow the government to reduce the costs of development and operations, while at the same time improving overall quality, by promoting interoperability and reuse of standard components. 
 
-## The objectives of the GEA framework are to assist in the delivery of more consistent, cohesive and efficient digital services to citizens by the government, through providing a framework that:
+## The objectives of the GEA framework are 
 
 1. Understanding, clarifying and optimizing the inter-dependencies and relationships
 among business operations, the underlying IT infrastructure and applications that support
