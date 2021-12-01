@@ -1,0 +1,2 @@
+# Lab 4 : Factory Design Pattern
+Factory pattern is one of the most used design patterns. In this pattern, we create object without exposing the creation logic to the client and refer to the newly created object using common interface.
