@@ -103,7 +103,7 @@ This undoes all commits after [commit], preserving changes locally.
 
 This discards all history and changes back to the specified commit
 
-## Review Hiistory
+## Review History
 > `git log`
 
 this lists version history for the current branch.
